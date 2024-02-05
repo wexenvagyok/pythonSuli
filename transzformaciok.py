@@ -97,3 +97,4 @@ if __name__ == '__main__':
 	print ("rendesen elindítva")
 #else:
 #	print("Modulként betöltve")
+
